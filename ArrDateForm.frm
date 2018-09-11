@@ -32,6 +32,7 @@ Private Sub cmdButtonExit_Click()
  DoEvents
 End Sub
 
+'frist modified
 Private Sub cmdButtonInfo_Click()
 On Error GoTo BadInfo
 Dim M          As Long
